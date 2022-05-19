@@ -1,0 +1,14 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Someone I used to know
+  label: Personal Page
+links:
+- text: Linkedin
+  link: https://www.linkedin.com
+- text: Github
+  link: https://github.com
+  
+footer:
+  copyright: "Email: youremailgmail.com, Phone: yournumber" 
